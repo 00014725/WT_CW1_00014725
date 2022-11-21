@@ -1,0 +1,98 @@
+@media (max-width: 854px) {
+    
+    .character_content {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .character_img {
+        width: 400px;
+        height: 500px;
+    }
+    .character_info span {
+        font-size: 15px;
+        margin-left: 50px;
+        /* left: -5px; */
+        text-align: center;
+        margin: auto;
+    }
+    .character_info h2 {
+        text-align: center;
+        margin: auto;
+        width: 350px;
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .character_info p {
+        width: 350px;
+        margin: 10px auto;
+        text-align: center;
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .character_infos {
+        align-items: center;
+        /* width: 380px; */
+    }
+    .character_infos img {
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-bottom: 20px;
+        width: 98px; 
+    }
+    .about_content h2 {
+        margin-top: -50px;
+        font-size: 40px;
+    }
+    .about_content p {
+        width: 350px;
+    }
+    .sponsors_info {
+        display: flex;
+        flex-direction: column;
+    }
+    .sponsors_info img {
+        margin-bottom: 10px;
+    }
+    /* Footer Part */
+    .footer-logo img {
+        height: 30px;
+        height: 30px;
+    }
+    .footer-logo h3 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    .footer-logo {
+        display: flex;
+        width: 120px;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .brand_info p {
+        width: 150px;
+        line-height: 18px;
+        font-size: 15px;
+    }
+    .footer_list li h2 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .footer_list li a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .social_contacts h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .social_contacts a i {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+
+      
+}

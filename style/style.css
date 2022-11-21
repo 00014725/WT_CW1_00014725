@@ -164,6 +164,20 @@ label #cancel {
     z-index: 100;
     transition: 0.5s;
   }
+  .contact_us {
+    width: 100px;
+    height: 50px;
+    padding: 8px;
+    font-size: 15px;
+    line-height: 15px;
+  }
+  .header-logo img {
+    width: 30px;
+    height: 30px;
+  }
+  .nav-logo-text {
+    font-size: 15px;
+  }
 
   .nav_link {
     font-size: 20px;
@@ -172,6 +186,7 @@ label #cancel {
 
   label #btn {
     display: inline-block;
+    margin-left: -10px;
   }
 
   #check:checked ~ ul {
@@ -185,39 +200,10 @@ label #cancel {
   #check:checked ~ label #cancel {
     display: block; 
     z-index: 101;
+    margin-left: -10px;
   }
-
-
-  
-
-  .team_section {
-    background-color: rgb(119, 83, 83);
-    padding: 130px 0;
-  }
-  .team_info {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 64px;
-  }
-  .team_info span {
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 16px;
-    text-transform: uppercase;
-    color: #57B8FF;
-    display: flex;
-    align-items: center;
-    margin-bottom: 22px;
-  }
-  .team_info h2 {
-    width: 541px;
-    font-weight: 400;
-    font-size: 26px;
-    line-height: 74px;
-    text-transform: capitalize;
-    color: #fff;
-  } 
 }
+
 /* HEADER STYLE END */
 
 /* HERO SECTION START */
