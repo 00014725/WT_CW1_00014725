@@ -69,3 +69,13 @@ body {
     background-color: orange;
     color: rgb(0, 0, 0);
 }
+/* Back to main */
+.content a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin-top: 50px;
+}
+.content span {
+    color: goldenrod;
+}

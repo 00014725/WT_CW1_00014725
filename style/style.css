@@ -252,10 +252,10 @@ label #cancel {
 
 .hero_img-content p {
   width: 615px;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 18px;
   line-height: 28px;
-  color: #999;
+  color: rgb(14, 12, 12);
   margin-bottom: 53px;
 }
 

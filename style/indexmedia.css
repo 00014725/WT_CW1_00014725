@@ -1,0 +1,164 @@
+@media (max-width: 854px) {
+    .hero_content {
+        display: flex;
+        flex-direction: column;
+    }
+    .hero_section {
+        padding-bottom: 100px ;
+    }
+    .hero_content img {
+        width: 390px;
+        height: 100%;
+    }
+    .hero_img-content span {
+        text-align: center;
+        width: 300px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .hero_img-content h2 {
+        width: 380px;
+        font-size: 25px;
+        line-height: 40px;
+        text-align: center;
+        margin: auto;
+    }
+    .hero_img-content p {
+        width: 380px ;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .explore_btn {
+        width: 80px;
+        height: 28px;
+        padding: 20px 34px;
+        font-size: 16px;
+        line-height: 20px;
+        margin-right: 20px;
+    }
+    .view_team-btn {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    /* Shop */
+    .shop_section {
+        height: 1500px;
+    }
+    .shop_content h2 {
+        width: 350px;
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .shop_content p {
+        width: 370px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .shop_card_content {
+        display: flex;
+        flex-direction: column;
+    }
+    .shop_card {
+        /* text-align: center; */
+        width: 370px;
+        height: 212px;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .shop_card h3 {
+        width: auto;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 19px;
+    }
+    .shop_card p {
+        width: 300px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        color: #dfdfdfcc;
+        margin: 0 auto;
+    }
+    .new-era_content {
+        display: flex;
+        flex-direction: column;
+    }
+    .new-era_content img {
+        width: 370px;
+        height: 100%;
+        margin: 0;
+    }
+    .new-era_info span {
+        font-size: 16px;
+        width: 280px;
+        margin-left: 150px;
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+    .new-era_info h2 {
+        width: 320px;
+        margin-left: 110px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+    .new-era_info p {
+        width: 350px;
+        margin-left: 80px;
+        text-align: center;
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 54px;
+    }
+    .new-era_info a {
+        width: 150px;
+        height: 50px;
+        font-size: 16px;
+        padding: 10px;
+        margin-left: 185px;
+    }
+
+
+    /* Footer Part */
+  .footer-logo img {
+    height: 30px;
+    height: 30px;
+  }
+  .footer-logo h3 {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  .footer-logo {
+    display: flex;
+    width: 120px;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .brand_info p {
+    width: 150px;
+    line-height: 18px;
+    font-size: 15px;
+  }
+  .footer_list li h2 {
+    font-size: 16px;
+    text-align: center;
+  }
+  .footer_list li a {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .social_contacts h3 {
+    font-size: 16px;
+    text-align: center;
+  }
+  .social_contacts a i {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+} 

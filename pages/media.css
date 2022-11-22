@@ -1,0 +1,82 @@
+@media (max-width: 854px) { 
+    .everyones_life-section {
+        background-image: none;
+        background-color: rgb(255, 255, 128);;
+        height: 800px;
+      }
+    .everyones_content {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 0px;
+        margin-right: 0px;
+        /* background-color: aliceblue; */
+    }
+    .everyones_phone {
+        height: 570px;
+        text-align: center;
+        margin: auto;
+        /* background-color: aqua; */
+    }
+    .everyones_info h2 {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        top: -100px;
+        width: 200px;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 25px;
+        color: #666;
+    }  
+    .everyones_info p {
+        color: rgb(61, 48, 78);
+        opacity: 0.8;
+        margin-bottom: 35px;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+    .play_shop {  
+        margin: auto; 
+        text-align: center;
+      }
+    /* Footer */
+    .footer-logo img {
+        height: 30px;
+        height: 30px;
+    }
+    .footer-logo h3 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    .footer-logo {
+        display: flex;
+        width: 120px;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .brand_info p {
+        width: 150px;
+        line-height: 18px;
+        font-size: 15px;
+    }
+    .footer_list li h2 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .footer_list li a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .social_contacts h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .social_contacts a i {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+}
