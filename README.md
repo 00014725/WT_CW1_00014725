@@ -1,0 +1,4 @@
+About the website.
+
+The website was mainly created for up-to-date cyber games and offers subscription services for newly released games alike PUBG and Dota. Also, the website provides several facilities such as purchasing games and booking rooms for a team in the Nukus Game Store game club. The website consists of 6 different pages with a mobile responsive structure. With the facilities, provided people can arrange a time and book rooms easily through the website or contact the administration. Moving to the creation of the websites mainly used front-end web development tools HTML, and CSS, and to illustrate time JavaScript was added. Media query was implemented to make the customer utilize the website through mobile devices. The minimum screen size is 394 pixels, while the maximum is 854 pixels. Moving to the design of the website, it was created on Figma, and I used it as an example and coded it.
+
