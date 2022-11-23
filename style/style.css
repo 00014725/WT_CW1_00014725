@@ -151,7 +151,7 @@ label #cancel {
     justify-content: space-around;
   }
   .nav_list {
-    /* display: none;   */
+    display: none;  
     position: fixed;
     top: 0;
     right: -100%;
@@ -159,7 +159,7 @@ label #cancel {
     height: 100vh;
     background: linear-gradient(-50deg, rgba(0, 0, 0, 0.88), rgb(87, 184, 255));
     padding-top: 100px;
-    display: block;
+    /* display: block; */
     line-height: 40px;
     z-index: 100;
     transition: 0.5s;
@@ -201,6 +201,9 @@ label #cancel {
     display: block; 
     z-index: 101;
     margin-left: -10px;
+  }
+  .nav_list {
+    flex-direction: column;
   }
 }
 
